@@ -1,0 +1,1 @@
+{"d": 16, "n_layers": 4, "compression_list": [80, 80], "date_time": "2025-05-18_02-33-45", "img_path_list": ["figures/pacman.jpg", "figures/blueghost.jpg"], "index": [0, 1, 2, 3, 4, 5, 6, 7, 8], "maxiter": 30, "circuit_type": "real_overlap"}
